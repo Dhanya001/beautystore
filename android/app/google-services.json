@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762782794090",
+    "project_id": "beauty-store-app-90ca1",
+    "storage_bucket": "beauty-store-app-90ca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762782794090:android:1849116344f99c31a2e513",
+        "android_client_info": {
+          "package_name": "com.example.mansi_beauty_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWshwqnfb26jG4u5nDd5KnUhRlp53czk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
